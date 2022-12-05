@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Sonia (she/they) an Economics and Data Sciences senior @ Smith College. I like tinkering with data to derive insights about society, especially through an economic/financial lens. Below are some of my class projects!
+# Hi there! 👋
+I'm Sonia (she/they) an Economics and Data Sciences senior @ Smith College. I like tinkering with data to derive insights about society, especially through an economic/financial lens. Below are some of my class projects!
 
 - SDS 410 Capstone: Cryptocurrency Reddit Sentiment and Market Analysis (Client Project)
 - ECO 280 Economics Research Methods: [STATA to R Replication Project](https://github.com/eco280-f21/replication-sonia)
