@@ -3,7 +3,9 @@ I'm Sonia (she/they) an Economics and Data Sciences senior @ Smith College. I li
 
 - SDS 410 Capstone: Cryptocurrency Reddit Sentiment and Market Analysis (Client Project)
 - ECO 280 Economics Research Methods: [STATA to R Replication Project](https://github.com/eco280-f21/replication-sonia)
+- ECO 280 Economics Research Methods: [R Data Analysis Project](https://github.com/soniaaparedees/eco280-data-analysis)
 - CSC 212 Data Structures: [Final Group Project - Java Text-based Adventure Game](https://github.com/soniaaparedees/csc212-final-project)
+
 
 A bit more about me:
 - 🌱 I’m currently learning SQL and Tableau.
