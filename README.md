@@ -2,6 +2,7 @@
 I'm Sonia (she/they) an Economics and Data Sciences recent grad from Smith College. I like tinkering with data to derive insights about society, especially through an economic/financial lens. Below are some of my class projects!
 
 - SDS 410 Capstone: Cryptocurrency Reddit Sentiment and Market Analysis (Client Project)
+- SDS 270 Advanced Programming in R: [CorpusBuilder: An R package to Webscraping archive.org](https://github.com/Adv-R-Programming/final-project-webscrapingarchiveorg)
 - ECO 280 Economics Research Methods: [STATA to R Replication Project](https://github.com/eco280-f21/replication-sonia)
 - ECO 280 Economics Research Methods: [R Data Analysis Project](https://github.com/soniaaparedees/eco280-data-analysis)
 - CSC 212 Data Structures: [Final Group Project - Java Text-based Adventure Game](https://github.com/soniaaparedees/csc212-final-project)
