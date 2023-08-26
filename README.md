@@ -9,7 +9,7 @@ I'm Sonia (she/they) an Economics and Data Sciences recent grad from Smith Colle
 
 
 A bit more about me:
-- 🌱 I’m currently learning SQL and Tableau.
+- 🌱 I’m currently learning SQL and Tableau. Working to brush up Salesforce skills and become a certified Administrator!
 - 👯 I’m looking to collaborate on **data projects working with economic and/or financial data**
 - 📫 How to reach me: via email sparedes@smith.edu
 - 😄 Pronouns: she/they
