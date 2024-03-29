@@ -9,9 +9,9 @@ I'm Sonia (she/they) an Economics and Data Sciences recent grad from Smith Colle
 
 
 A bit more about me:
-- 🌱 I’m currently learning SQL and Tableau. Working to brush up Salesforce skills and become a certified Administrator!
+- 🌱 I’m currently learning SQL, Tableau, and WebDev. I am very interested in data visualization! Working to get my personal website up and show all these three.
 - 👯 I’m looking to collaborate on **data projects working with economic and/or financial data**
-- 📫 How to reach me: via email sparedes@smith.edu
+- 📫 How to reach me: via email esparedes319@gmail.com
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I can speak 6 languages: English, Tagalog, Cebuano/Bisaya, Mandarin, Hokkien, and Spanish!
 
